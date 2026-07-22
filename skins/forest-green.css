@@ -1,0 +1,21 @@
+:root {
+  color-scheme: light;
+  --bg: #edf4ef;
+  --panel: #fffefb;
+  --text: #1f3026;
+  --muted: #63736a;
+  --border: #cfddd3;
+  --accent: #246b47;
+  --accent-contrast: #ffffff;
+  --danger: #a33131;
+  --header-bg: linear-gradient(135deg, #153d2a, #2c7b54);
+  --header-text: #ffffff;
+  --header-muted: #d9ede2;
+  --surface-muted: #f2f7f4;
+  --media-bg: #102018;
+  --button-bg: #fffefb;
+  --button-text: #1f3026;
+  --active-bg: #f3e6b2;
+  --active-border: #ad9131;
+  --shadow: 0 17px 44px rgba(32, 85, 55, .18);
+}

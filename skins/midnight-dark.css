@@ -1,0 +1,21 @@
+:root {
+  color-scheme: dark;
+  --bg: #09111c;
+  --panel: #121d2a;
+  --text: #edf4ff;
+  --muted: #a9b7ca;
+  --border: #304258;
+  --accent: #65a0ff;
+  --accent-contrast: #071321;
+  --danger: #ff8c96;
+  --header-bg: linear-gradient(135deg, #06162a, #183f71);
+  --header-text: #ffffff;
+  --header-muted: #bfd2eb;
+  --surface-muted: #182535;
+  --media-bg: #04080d;
+  --button-bg: #1b2a3b;
+  --button-text: #edf4ff;
+  --active-bg: #554315;
+  --active-border: #e0b64b;
+  --shadow: 0 22px 55px rgba(0,0,0,.48);
+}
