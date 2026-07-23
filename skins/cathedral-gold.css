@@ -1,0 +1,23 @@
+:root {
+  color-scheme: light;
+  --bg: #f4ede1;
+  --panel: #fffdf7;
+  --text: #38291b;
+  --muted: #776651;
+  --border: #cfb77f;
+  --accent: #7e2f31;
+  --accent-contrast: #ffffff;
+  --danger: #a12626;
+  --header-bg: linear-gradient(135deg, #5a2024, #90383b);
+  --header-text: #fff9e9;
+  --header-muted: #ead7b9;
+  --surface-muted: #f8efdf;
+  --media-bg: #241a13;
+  --button-bg: #fffdf8;
+  --button-text: #38291b;
+  --active-bg: #f5e4aa;
+  --active-border: #ae862f;
+  --shadow: 0 20px 52px rgba(81, 52, 25, .24);
+  --font: Georgia, "Times New Roman", serif;
+}
+.multitrack-player { border: 4px solid #b38938; outline: 2px solid #f4dda0; outline-offset: -10px; }
